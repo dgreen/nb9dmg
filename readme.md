@@ -25,6 +25,10 @@ to make a `nb9dist.dmg`.  When this dmg is opened, it will present a familar DMG
 1. Combine the two scripts
 2. Fix things so install will be into /Applications/NetBeans directory
 
+## Note
+
+Depends on MacOS program `hdiutil`.
+
 
 [dmgbuild]: http://dmgbuild.readthedocs.io/en/latest/index.html
 [netbeans-macos-bundle]: https://github.com/carljmosca/netbeans-macos-bundle
